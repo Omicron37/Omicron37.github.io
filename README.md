@@ -1,17 +1,17 @@
 # 🏫 Welcome to Omi's Educational Apps Repository!
 
-ยินดีต้อนรับท่านผู้มาเยือนทุกท่านอย่างเป็นทางการครับ/ค่ะ! 🎉
+A warm welcome to all visitors! 🎉
 
-Repository ส่วนตัวนี้เป็นพื้นที่สำหรับการรวบรวมและทดลองโปรเจกต์เกี่ยวกับการ **พัฒนาแอปพลิเคชันทางการศึกษา (Educational Applications)** โดยมีความตั้งใจที่จะสร้างสรรค์เครื่องมือสนุกๆ ที่ช่วยส่งเสริมการเรียนรู้
+This personal repository is a dedicated space for collecting and experimenting with projects related to **Educational Application Development**. My intention is to create fun, engaging tools that help support and enhance learning.
 
-## 👨‍💻 เกี่ยวกับผู้พัฒนา
+## 👨‍💻 About the Developer
 
-* **ชื่อ:** Omi
-* **ประสบการณ์การพัฒนาเว็บ:** อยู่ในระดับ **"อนุบาล"** 👶🍼 (เพิ่งเริ่มต้นเตาะแตะ กำลังเรียนรู้ ฝึกฝน และค่อยๆ พัฒนาฝีมือไปทีละก้าว!)
+* **Name:** Omi
+* **Web Development Experience:** **Beginner** 🌱 (Just starting out, eager to learn, practice, and improve my skills step by step!)
 
-## 🌟 เป้าหมายของคลังนี้
-* เพื่อเก็บรวบรวมไอเดียและซอร์สโค้ดแอปพลิเคชันเพื่อการศึกษา
-* เพื่อเป็นบันทึกการเดินทางในการเรียนรู้การเขียนโปรแกรมของ Omi
+## 🌟 Goals of this Repository
 
----
-*ยินดีรับฟังทุกคำแนะนำ ข้อติชม หรือจะแวะมาทักทายพูดคุยกันก็ได้เช่นกันครับ/ค่ะ ขอบคุณที่สละเวลามาเยี่ยมชมผลงาน!* ✨
+* To collect ideas and source code for educational applications.
+* To serve as a journal for my programming and web development journey.
+
+*Feedback, suggestions, or just a friendly hello are always welcome. Thank you for taking the time to visit!* ✨
